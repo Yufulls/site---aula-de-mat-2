@@ -1,4 +1,12 @@
-header {
-    background-color: #d1a71f;
+.cabeçalho {
+    background-color: #1fd1c2;
+    color: white;
     color: aliceblue;
+    display: flex;
+}
+.cabeçalhoimagem{
+   width: 20%;
+}
+body{
+    background-color: gray;
 }
